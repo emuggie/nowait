@@ -1,0 +1,2 @@
+when SIGVTALRM,SIGALRM sent, process killed.
+however, when event is registered, signal not interrupt main thread.
